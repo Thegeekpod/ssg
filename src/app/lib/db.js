@@ -6,7 +6,8 @@ export async function query({ query, values = [] }) {
     host: 'localhost',
     user: 'root',
     password: '',
-    database: 'ssg'
+    database: 'ssg',
+    port: 3306
   });
 
   try {
