@@ -32,7 +32,7 @@ const AppoinmentBooking = () => {
             <div className="service-process mp0">
               <div className="ot-heading ">
                 <span>{"//"} about service</span>
-                <h2 className="main-heading">Welcome To SSGeek Group 24/7 Appointment Booking Support Services
+                <h2 className="main-heading">Welcome To Bethere Tech LLC 24/7 Appointment Booking Support Services
 
                 </h2>
                 <p>

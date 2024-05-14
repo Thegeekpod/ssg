@@ -29,9 +29,9 @@ const GraphicsDesign = () => {
               <div className="ot-heading">
                 <span>{"//"} about service</span>
                 <h2 className="main-heading">
-                Welcome To SSGeek Group Graphics Design
+                Welcome To Bethere Tech LLC Graphics Design
                 </h2>
-                <p>Welcome to SSGeek Group, where creativity meets innovation in graphic design. Our team of talented designers specializes in creating visually stunning and impactful designs that help businesses stand out in today{"'"}s competitive market.</p>
+                <p>Welcome to Bethere Tech LLC, where creativity meets innovation in graphic design. Our team of talented designers specializes in creating visually stunning and impactful designs that help businesses stand out in today{"'"}s competitive market.</p>
               </div>
               
             </div>

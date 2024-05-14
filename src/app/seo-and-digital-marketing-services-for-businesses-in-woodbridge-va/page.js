@@ -30,9 +30,9 @@ const Seo = () => {
               <div className="ot-heading ">
                 <span>{"//"} about service</span>
                 <h2 className="main-heading">
-                Welcome To SSGeek Group SEO And Digital Marketing Solutions
+                Welcome To Bethere Tech LLC SEO And Digital Marketing Solutions
                 </h2>
-                <p>Welcome to SSGeek Group, your partner in maximizing your online visibility, driving traffic, and boosting conversions. As a leading provider of SEO and digital marketing services, we specialize in helping businesses of all sizes achieve their online goals and grow their digital presence.</p>
+                <p>Welcome to Bethere Tech LLC, your partner in maximizing your online visibility, driving traffic, and boosting conversions. As a leading provider of SEO and digital marketing services, we specialize in helping businesses of all sizes achieve their online goals and grow their digital presence.</p>
               </div>
               
             </div>

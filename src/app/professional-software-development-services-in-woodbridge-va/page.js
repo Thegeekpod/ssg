@@ -30,9 +30,9 @@ const SoftwareDevelopment = () => {
               <div className="ot-heading ">
                 <span>{"//"} about service</span>
                 <h2 className="main-heading">
-                Welcome To SS GEEK GROUP Professional Software Development Services
+                Welcome To Bethere Tech LLC Professional Software Development Services
                 </h2>
-                <p>At ssgeekgroup, we specialize in crafting cutting-edge professional software development services in Woodbridge VA tailored to meet the unique needs of our clients. With our team of experienced developers, designers, and project managers, we bring ideas to life through innovative technology and seamless user experiences.</p>
+                <p>At Bethere Tech LLC, we specialize in crafting cutting-edge professional software development services in Woodbridge VA tailored to meet the unique needs of our clients. With our team of experienced developers, designers, and project managers, we bring ideas to life through innovative technology and seamless user experiences.</p>
               </div>
               
             </div>
@@ -65,7 +65,7 @@ const SoftwareDevelopment = () => {
                     <h6 className="mb-0">Custom Software Development Services</h6>
                     <p>
                    
-                    At SSGeek Group, every business is unique. That’s why we offer custom web development solutions tailored to your needs. Whether a corporate website, an e-commerce platform, or a complex web application, we have the expertise to bring your vision to life.
+                    At Bethere Tech LLC, every business is unique. That’s why we offer custom web development solutions tailored to your needs. Whether a corporate website, an e-commerce platform, or a complex web application, we have the expertise to bring your vision to life.
                     </p>
                   </div>
                 </div>

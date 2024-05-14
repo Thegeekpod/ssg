@@ -29,9 +29,9 @@ const Webdevelopmet = () => {
               <div className="ot-heading">
                 <span>{"//"} about service</span>
                 <h2 className="main-heading">
-                Welcome To SS Geek Group Professional Website Development Services
+                Welcome To Bethere Tech LLC Professional Website Development Services
                 </h2>
-                <p>In the digital era, a professional website is crucial for online success. Our company, SS Geek Group, provides exceptional website development tailored to your business objectives. Our Strategy: We prioritize understanding your business, target audience, and goals to develop a website that aligns with your vision. This ensures a visually appealing website that maximizes its impact. Custom Solutions: Recognizing the uniqueness of each business, we offer personalized website development solutions tailored to your specific requirements. Our team collaborates with you to create a website that meets your precise needs and drives desired outcomes. websites that elevate your online presence and drive results.</p>
+                <p>In the digital era, a professional website is crucial for online success. Our company, Bethere Tech LLC, provides exceptional website development tailored to your business objectives. Our Strategy: We prioritize understanding your business, target audience, and goals to develop a website that aligns with your vision. This ensures a visually appealing website that maximizes its impact. Custom Solutions: Recognizing the uniqueness of each business, we offer personalized website development solutions tailored to your specific requirements. Our team collaborates with you to create a website that meets your precise needs and drives desired outcomes. websites that elevate your online presence and drive results.</p>
               </div>
               
             </div>

@@ -18,7 +18,7 @@ const Header = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="https://www.facebook.com/ssgeekgroup" target="_self">
+                  <Link href="https://www.facebook.com/Bethere Tech LLC" target="_self">
                     <i className="fab fa-facebook-f" />
                   </Link>
                 </li>
@@ -42,8 +42,8 @@ const Header = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="mailto:support@ssgeekgroup.com">
-                    <i className="fas fa-envelope" /> support@ssgeekgroup.com
+                  <Link href="mailto:betheretech@outlook.com">
+                    <i className="fas fa-envelope" /> betheretech@outlook.com
                   </Link>
                 </li>
               </ul>
@@ -60,7 +60,7 @@ const Header = () => {
               <div className="octf-col logo-col">
                 <div id="site-logo" className="site-logo">
                   <Link href="index.html">
-                    <img src="/logo.png" alt="ssgeekgroup" className="" />
+                    <img src="/logo.png" alt="Bethere Tech LLC" className="" />
                   </Link>
                 </div>
               </div>
@@ -85,7 +85,7 @@ const Header = () => {
         <div className="mlogo_wrapper clearfix">
           <div className="mobile_logo">
             <Link href="index.html">
-              <img src="/logo.png" alt="ssgeekgroup" />
+              <img src="/logo.png" alt="Bethere Tech LLC" />
             </Link>
           </div>
           <div id="mmenu_toggle">

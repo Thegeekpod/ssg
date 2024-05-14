@@ -29,7 +29,7 @@ const about = () => {
             </div>
             <div className="space-5" />
             <p>
-            Transform your business with ssgeekgroup, where innovative IT solutions meet unparalleled expertise and unwavering reliability. Our team of seasoned professionals is dedicated to delivering tailored technology solutions that drive growth and efficiency. With a customer-centric approach at our core, we prioritize understanding your unique needs to provide personalized service and support. From custom software development to robust cybersecurity solutions, we leverage the latest technologies to help you stay ahead in today{"'"}s dynamic market. Trust in our proven track record of success and collaborative partnership ethos, ensuring that we exceed your expectations every step of the way. Experience the difference with ssgeekgroup, your trusted partner for harnessing the power of technology to propel your business forward.
+            Transform your business with Bethere Tech LLC, where innovative IT solutions meet unparalleled expertise and unwavering reliability. Our team of seasoned professionals is dedicated to delivering tailored technology solutions that drive growth and efficiency. With a customer-centric approach at our core, we prioritize understanding your unique needs to provide personalized service and support. From custom software development to robust cybersecurity solutions, we leverage the latest technologies to help you stay ahead in today{"'"}s dynamic market. Trust in our proven track record of success and collaborative partnership ethos, ensuring that we exceed your expectations every step of the way. Experience the difference with Bethere Tech LLC, your trusted partner for harnessing the power of technology to propel your business forward.
             </p>
             <p>
               <em className="text-dark">
@@ -132,7 +132,7 @@ const about = () => {
               </div>
               <h5>PHP Website Development Services</h5>
               <p>
-                ssgeekgroup is the partner of choice for many of the world’s leading
+                Bethere Tech LLC is the partner of choice for many of the world’s leading
                 enterprises, SMEs and technology challengers. We help businesses
                 elevate their value through custom software development, product
                 design, QA and consultancy services.

@@ -14,13 +14,13 @@ const Footer = () => {
           </Link>
           <div className="space-5"/>
           <p>
-Transform your business with ssgeekgroup, where innovative IT solutions meet unparalleled expertise and unwavering reliability.</p>
+Transform your business with Bethere Tech LLC, where innovative IT solutions meet unparalleled expertise and unwavering reliability.</p>
 <div className="space-5"/>
 <div className="ft-list-icon">
   <Link className="twitter" href="#">
     <i className="fab fa-twitter" />
   </Link>
-  <Link className="facebook" href="https://www.facebook.com/ssgeekgroup">
+  <Link className="facebook" href="https://www.facebook.com/Bethere Tech LLC">
     <i className="fab fa-facebook-f" />
   </Link>
   <Link className="linkedin" href="#">
@@ -64,7 +64,7 @@ Transform your business with ssgeekgroup, where innovative IT solutions meet unp
                 <Link href="tel:+1 (703) 763-1718"><i className="flaticon-phone-1"></i> +1 7037631718</Link>
               </li>
               <li className="list-item">
-                <Link href="mailto:Support@Ssgeekgroup.Com"><i className="flaticon-envelope"></i> support@ssgeekgroup.com</Link>
+                <Link href="mailto:betheretech@outlook.com"><i className="flaticon-envelope"></i> betheretech@outlook.com</Link>
               </li>
               
               <li className="list-item">

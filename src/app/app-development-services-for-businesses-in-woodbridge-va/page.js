@@ -30,9 +30,9 @@ const AppDevelopment = () => {
               <div className="ot-heading ">
                 <span>{"//"} about service</span>
                 <h2 className="main-heading">
-                Welcome To SSGeek Group App Development
+                Welcome To Bethere Tech LLC App Development
                 </h2>
-                <p>Welcome to SSGeek Group, your trusted partner for creating innovative and impactful mobile applications. As a leading app development company, we specialize in crafting bespoke mobile solutions that engage users, drive conversions, and fuel business growth.</p>
+                <p>Welcome to Bethere Tech LLC, your trusted partner for creating innovative and impactful mobile applications. As a leading app development company, we specialize in crafting bespoke mobile solutions that engage users, drive conversions, and fuel business growth.</p>
               </div>
               
             </div>
@@ -83,7 +83,7 @@ Harness the power of Apple’s ecosystem with our custom iOS app development ser
                     <div className="step">03.</div>
                     <h6 className="mb-0">UI/UX Design</h6>
                     <p>
-                    At SSGeek Group, we understand that great design is more than just aesthetics – it’s about creating meaningful experiences that delight users and drive results. Our UI/UX designers work closely with you to understand your target audience, define user personas, and craft intuitive interfaces that make navigating your app a breeze.
+                    At Bethere Tech LLC, we understand that great design is more than just aesthetics – it’s about creating meaningful experiences that delight users and drive results. Our UI/UX designers work closely with you to understand your target audience, define user personas, and craft intuitive interfaces that make navigating your app a breeze.
                     </p>
                   </div>
                 </div>

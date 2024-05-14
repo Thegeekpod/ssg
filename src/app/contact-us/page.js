@@ -45,7 +45,9 @@ const page = () => {
               <i className="flaticon-envelope" />
               <div className="info-text">
                 <h6>Our Mailbox:</h6>
-                <p>Support@Ssgeekgroup.Com</p>
+                <p>betheretech@outlook.com</p>
+                <p>betheretechllc@gmail.com</p>
+
               </div>
             </div>
             <div className="contact-info box-style1">

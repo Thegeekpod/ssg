@@ -30,7 +30,7 @@ export default function Home() {
                 </h2>
               </div>
               <p className="mb-15">
-              At ssgeekgroup, we blend innovative IT solutions with expertise and reliability to transform businesses. Our customer-centric approach ensures personalized service tailored to your unique needs. From custom software development to cybersecurity, we leverage the latest technologies for growth. With a proven track record and collaborative ethos, trust us to exceed your expectations and drive your business forward.
+              At Bethere Tech LLC, we blend innovative IT solutions with expertise and reliability to transform businesses. Our customer-centric approach ensures personalized service tailored to your unique needs. From custom software development to cybersecurity, we leverage the latest technologies for growth. With a proven track record and collaborative ethos, trust us to exceed your expectations and drive your business forward.
               </p>
               <div className="row">
                 <div className="col-lg-6 col-md-6 col-sm-6">
