@@ -1,4 +1,4 @@
-import ContactFrom from '@/component/Partners'
+import ContactFrom from '@/component/ContactFrom'
 import Link from 'next/link'
 import React from 'react'
 
