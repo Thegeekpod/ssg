@@ -6050,7 +6050,7 @@ div.tp-bullet.selected, div.tp-bullet:hover {
     padding-bottom: 45px;
 }
 .cta {
-    padding: 55px 65px 200px 65px;
+    padding: 150px 65px 150px 65px;
     background-image: url(/images/background/bg-cta1-home1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -6079,8 +6079,8 @@ div.tp-bullet.selected, div.tp-bullet:hover {
     margin-bottom: 8px;
 }
 .technology-v1 {
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-top: 90px;
+    padding-bottom: 90px;
     background-image:url('/images/background/bg-tech-home1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -6438,7 +6438,7 @@ div.tp-bullet.selected, div.tp-bullet:hover {
     margin-left: 70px;
 }
 .service-v4 {
-    padding-top: 120px;
+    padding-top: 90px;
     background-color: #262051
 }
 .overlay-bg {
@@ -8115,7 +8115,7 @@ hr.i7 {
     margin-bottom: 25px;
   }
   .top-i8 {
-    padding-top: 120px;
+    padding-top: 90px;
   }
   .top-content-i8 h2 {
     font-size: 40px;
@@ -12842,7 +12842,7 @@ hr.i12 {
 }
 .roadmap-item h6 {
   position: relative;
-  padding-bottom: 120px;
+  padding-bottom: 90px;
 }
 .roadmap-item h6 {
   color: #FFF;
@@ -13515,7 +13515,7 @@ svg:not(:root) {
 }
 /* About */
 .about-offer {
-    padding-top: 120px;
+    padding-top: 90px;
     padding-bottom: 115px;
 }
 .pabout-left {
@@ -13711,8 +13711,8 @@ svg:not(:root) {
 }
 /* Faq */
 .faq {
-    padding-top: 100px;
-    padding-bottom: 245px;
+    padding-top: 90px;
+    padding-bottom: 90px;
 }
 .cta-faq {
     background-image: linear-gradient(80deg,#00DEFF 0%,#7141B1 100%);
@@ -13775,7 +13775,7 @@ svg:not(:root) {
     padding-top: 40px;
 }
 .cs-content .ft-list-icon {
-    padding-top: 120px;
+    padding-top: 90px;
 }
 /* service page */
 .service-page {
@@ -13816,20 +13816,20 @@ svg:not(:root) {
     padding-bottom: 15px;
 }
 .service-web {
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-top: 90px;
+    padding-bottom: 90px;
 }
 .service {
     padding-top: 0;
-    padding-bottom: 120px;
+    padding-bottom: 90px;
 }
 .service-web-pricing {
-    padding-top: 120px;
+    padding-top: 90px;
     padding-bottom: 100px;
 }
 .service-partner {
     padding-top: 0;
-    padding-bottom: 120px;
+    padding-bottom: 90px;
 }
 .tab-video {
     padding: 120px 0 120px 150px;
@@ -13972,7 +13972,7 @@ svg:not(:root) {
     padding-bottom: 0;
 }
 .list-items a {
-    color: #AEAACB;
+    color: #fff;
 }
 .list-items a:hover {
     color: #fff;
@@ -13980,8 +13980,12 @@ svg:not(:root) {
 .copyright-text {
     margin-bottom: 0;
     font-size: 15px;
+    color: #fff;
 }
 
+.widget-footer p{
+  color: #fff;
+}
 .footer-v2 {
     background-color: #211E3B;
     background-image: url(/images/background/bg-footer1.png);
@@ -14054,13 +14058,13 @@ svg:not(:root) {
 
 /* HTML */
 section {
-    padding-top: 120px;
-    padding-bottom: 130px;
+    padding-top: 90px;
+    padding-bottom: 90px;
     position: relative;
 }
 .pbt-120 {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 90px;
+  padding-bottom: 90px;
 }
 .no-margin {
     margin: 0;
@@ -14740,4 +14744,26 @@ section {
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
+}
+.bbs {
+  padding: 10px;
+  background: #2daae2;
+  color: white;
+  border-radius: 10px;
+  margin: 10px 0px;
+}
+.bbs h6{
+  color: white;
+}
+.bbs .step {
+  color: white;
+ 
+}
+.mp0{
+margin: 0;
+padding: 0;
+}
+.link-n{
+  text-decoration: none !important;
+  color: #303437  !important;
 }
