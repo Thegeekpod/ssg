@@ -130,9 +130,6 @@ const AppoinmentBooking = () => {
            <p className='text-justify'>In the realm of IT, the first impression you make on clients can significantly influence their perception of your company and its services. This statement stresses the critical role of the initial encounter in shaping client relationships. It highlights the need for IT companies to prioritize professionalism, expertise, and excellent communication right from the start. By recognizing the importance of first impressions, IT firms can strive to create positive experiences that lay the groundwork for trust, collaboration, and long-term partnerships with their clients.
 
 
-
-
-
 </p>
             </div>
           </div>
