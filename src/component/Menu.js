@@ -51,7 +51,7 @@ const Menu = () => {
                 </ul>
             </li>
             <li>
-                <a href="/pricing">Pricing</a>
+                <Link href="/pricing">Pricing</Link>
             </li>
             <li>
                 <Link href="/contact-us">Contacts Us</Link>
