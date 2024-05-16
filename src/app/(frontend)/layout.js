@@ -39,7 +39,7 @@ export default function RootLayout({ children }) {
         <Script src="/js/owl.carousel.min.js"></Script>
         <Script src="/js/easypiechart.min.js"></Script>
         <Script src="/js/jquery.countdown.min.js"></Script>
-        <Script src="/js/Scripts.js"></Script>
+        <Script src="/js/scripts.js"></Script>
         <Script src="/js/header-mobile.js"></Script>
 
         <Script src="/plugins/revolution/revolution/js/jquery.themepunch.tools.min.js"></Script>

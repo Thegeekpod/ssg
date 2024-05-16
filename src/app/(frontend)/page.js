@@ -10,15 +10,7 @@ export default function Home() {
 
     <div id="content" className="site-content">
       <MainBaner/>
-      <div className="padding-half bg-light-1">
-        <div className="container">
-          <div className="row">
-            <div className="col-md-12">
-            <Partners/>
-            </div>
-          </div>
-        </div>
-      </div>
+    
       <section className="over-hidden">
         <div className="container">
           <div className="row">
@@ -61,12 +53,12 @@ export default function Home() {
                 <div className="img-small">
                   <img
                     className="img-small-1"
-                    src="images/home-about-small-1.jpg"
+                    src="/images/home-about-small-1.jpg"
                     alt=""
                   />
                   <img
                     className="img-small-2"
-                    src="images/home-about-small-2.jpg"
+                    src="/images/home-about-small-2.jpg"
                     alt=""
                   />
                 </div>
@@ -181,43 +173,8 @@ export default function Home() {
       </section>
       <section className="pt-5 pb-290">
         <div className="container">
-          <div className="row mt--130">
-            <div className="col-md-6 col-sm-12 mb-4 mb-md-0">
-              <div className="misc-box text-white misc-box-bg1">
-                <div className="ot-counter">
-                  <div>
-                    <span className="num" data-to={15} data-time={2000}>
-                      0
-                    </span>
-                    <span>+</span>
-                  </div>
-                </div>
-                <h5>Countries Worldwide</h5>
-                <p>
-                  To succeed, every software solution must be deeply integrated
-                  into the existing tech environment..
-                </p>
-              </div>
-            </div>
-            <div className="col-md-6 col-sm-12">
-              <div className="misc-box misc-box-bg2">
-                <div className="ot-counter">
-                  <div>
-                    <span className="num" data-to={23} data-time={2000}>
-                      0
-                    </span>
-                    <span>k</span>
-                  </div>
-                </div>
-                <h5>Happy Customers</h5>
-                <p>
-                  To succeed, every software solution must be deeply integrated
-                  into the existing tech environment..
-                </p>
-              </div>
-            </div>
-          </div>
-          <div className="space-120" />
+         
+          <div className="space-90" />
           <div className="row">
             <div className="col-md-8 col-sm-8 mb-4 mb-sm-0">
               <div className="ot-heading mb-0">
@@ -271,178 +228,7 @@ export default function Home() {
        
         <div className="space-40" />
       </section>
-      <section className="news-why">
-  <div className="container">
-    <div className="row">
-      <div className="col-md-6">
-        <div className="ot-heading mb-0">
-          <span>{'//'} our recent news</span>
-          <h2 className="main-heading">Read Our Latest News</h2>
-        </div>
-      </div>
-      <div className="col-md-6 text-right sm-text-left sm-mt-30 align-self-end">
-        <div className="ot-button">
-          <a href="blog.html" className="octf-btn octf-btn-primary">
-            All News
-          </a>
-        </div>
-        <div className="space-10" />
-      </div>
-    </div>
-    <div className="space-40" />
-    <div className="post-grid pgrid">
-      <div className="row justify-content-center">
-        <div className="col-lg-4 col-md-6 col-sm-12">
-          <article className="post-box blog-item">
-            <div className="post-inner">
-              <div className="entry-media">
-                <div className="post-cat">
-                  <span className="posted-in">
-                    <a href="#" rel="category tag">
-                      Design
-                    </a>
-                    <a href="#" rel="category tag">
-                      Development
-                    </a>
-                  </span>
-                </div>
-                <a href="post.html">
-                  <img src="images/blog1-601x520.jpg" alt="" />
-                </a>
-              </div>
-              <div className="inner-post">
-                <div className="entry-header">
-                  <div className="entry-meta">
-                    <span className="posted-on">
-                      _ <a href="#">November 21, 2019</a>
-                    </span>
-                    <span className="byline">
-                      _{" "}
-                      <a className="url fn n" href="#">
-                        Tom Black
-                      </a>
-                    </span>
-                    <span className="comment-num">
-                      _ <a href="#">3 Comments</a>
-                    </span>
-                  </div>
-                  {/* .entry-meta */}
-                  <h3 className="entry-title">
-                    <a href="post.html">Plan Your Project with Your Software</a>
-                  </h3>
-                </div>
-                {/* .entry-header */}
-                <div className="btn-readmore">
-                  <a href="post.html">
-                    <i className="flaticon-right-arrow-1" />
-                    LEARN MORE
-                  </a>
-                </div>
-              </div>
-            </div>
-          </article>
-        </div>
-        <div className="col-lg-4 col-md-6 col-sm-12">
-          <article className="post-box blog-item">
-            <div className="post-inner">
-              <div className="entry-media">
-                <div className="post-cat">
-                  <span className="posted-in">
-                    <a href="#" rel="category tag">
-                      Design
-                    </a>
-                    <a href="#" rel="category tag">
-                      Development
-                    </a>
-                  </span>
-                </div>
-                <a href="post.html">
-                  <img src="images/blog4-601x520.jpg" alt="" />
-                </a>
-              </div>
-              <div className="inner-post">
-                <div className="entry-header">
-                  <div className="entry-meta">
-                    <span className="posted-on">
-                      _ <a href="#">November 21, 2019</a>
-                    </span>
-                    <span className="byline">
-                      _{" "}
-                      <a className="url fn n" href="#">
-                        Tom Black
-                      </a>
-                    </span>
-                    <span className="comment-num">
-                      _ <a href="#">0 Comments</a>
-                    </span>
-                  </div>
-                  {/* .entry-meta */}
-                  <h3 className="entry-title">
-                    <a href="post.html">You have a Great Business Idea?</a>
-                  </h3>
-                </div>
-                {/* .entry-header */}
-                <div className="btn-readmore">
-                  <a href="post.html">
-                    <i className="flaticon-right-arrow-1" />
-                    LEARN MORE
-                  </a>
-                </div>
-              </div>
-            </div>
-          </article>
-        </div>
-        <div className="col-lg-4 col-md-6 col-sm-12">
-          <article className="post-box blog-item">
-            <div className="post-inner">
-              <div className="entry-media">
-                <div className="post-cat">
-                  <span className="posted-in">
-                    <a href="#" rel="category tag">
-                      Development
-                    </a>
-                  </span>
-                </div>
-                <a href="post.html">
-                  <img src="images/blog3-601x520.jpg" alt="" />
-                </a>
-              </div>
-              <div className="inner-post">
-                <div className="entry-header">
-                  <div className="entry-meta">
-                    <span className="posted-on">
-                      _ <a href="#">September 24, 2019</a>
-                    </span>
-                    <span className="byline">
-                      _{" "}
-                      <a className="url fn n" href="#">
-                        Tom Black
-                      </a>
-                    </span>
-                    <span className="comment-num">
-                      _ <a href="#">3 Comments</a>
-                    </span>
-                  </div>
-                  {/* .entry-meta */}
-                  <h3 className="entry-title">
-                    <a href="post.html">Building Data Analytics Software</a>
-                  </h3>
-                </div>
-                {/* .entry-header */}
-                <div className="btn-readmore">
-                  <a href="post.html">
-                    <i className="flaticon-right-arrow-1" />
-                    LEARN MORE
-                  </a>
-                </div>
-              </div>
-            </div>
-          </article>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+  
 
 
     </div>

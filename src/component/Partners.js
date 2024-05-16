@@ -16,7 +16,7 @@ const Partners = () => {
                       <figure className="partners-slide-inner">
                         <img
                           className="partners-slide-image"
-                          src="images/client-logos/client1.svg"
+                          src="/images/client-logos/client1.svg"
                           alt=""
                         />
                       </figure>
@@ -27,7 +27,7 @@ const Partners = () => {
                       <figure className="partners-slide-inner">
                         <img
                           className="partners-slide-image"
-                          src="images/client-logos/client2.svg"
+                          src="/images/client-logos/client2.svg"
                           alt=""
                         />
                       </figure>
@@ -38,7 +38,7 @@ const Partners = () => {
                       <figure className="partners-slide-inner">
                         <img
                           className="partners-slide-image"
-                          src="images/client-logos/client3.svg"
+                          src="/images/client-logos/client3.svg"
                           alt=""
                         />
                       </figure>
@@ -49,7 +49,7 @@ const Partners = () => {
                       <figure className="partners-slide-inner">
                         <img
                           className="partners-slide-image"
-                          src="images/client-logos/client4.png"
+                          src="/images/client-logos/client4.png"
                           alt=""
                         />
                       </figure>
@@ -60,7 +60,7 @@ const Partners = () => {
                       <figure className="partners-slide-inner">
                         <img
                           className="partners-slide-image"
-                          src="images/client-logos/client5.svg"
+                          src="/images/client-logos/client5.svg"
                           alt=""
                         />
                       </figure>
@@ -71,7 +71,7 @@ const Partners = () => {
                       <figure className="partners-slide-inner">
                         <img
                           className="partners-slide-image"
-                          src="images/client-logos/client6.svg"
+                          src="/images/client-logos/client6.svg"
                           alt=""
                         />
                       </figure>
@@ -82,7 +82,7 @@ const Partners = () => {
                       <figure className="partners-slide-inner">
                         <img
                           className="partners-slide-image"
-                          src="images/client-logos/client1.svg"
+                          src="/images/client-logos/client1.svg"
                           alt=""
                         />
                       </figure>
@@ -93,7 +93,7 @@ const Partners = () => {
                       <figure className="partners-slide-inner">
                         <img
                           className="partners-slide-image"
-                          src="images/client-logos/client2.svg"
+                          src="/images/client-logos/client2.svg"
                           alt=""
                         />
                       </figure>
@@ -104,7 +104,7 @@ const Partners = () => {
                       <figure className="partners-slide-inner">
                         <img
                           className="partners-slide-image"
-                          src="images/client-logos/client3.svg"
+                          src="/images/client-logos/client3.svg"
                           alt=""
                         />
                       </figure>
@@ -115,7 +115,7 @@ const Partners = () => {
                       <figure className="partners-slide-inner">
                         <img
                           className="partners-slide-image"
-                          src="images/client-logos/client4.png"
+                          src="/images/client-logos/client4.png"
                           alt=""
                         />
                       </figure>
@@ -126,7 +126,7 @@ const Partners = () => {
                       <figure className="partners-slide-inner">
                         <img
                           className="partners-slide-image"
-                          src="images/client-logos/client5.svg"
+                          src="/images/client-logos/client5.svg"
                           alt=""
                         />
                       </figure>
@@ -137,7 +137,7 @@ const Partners = () => {
                       <figure className="partners-slide-inner">
                         <img
                           className="partners-slide-image"
-                          src="images/client-logos/client6.svg"
+                          src="/images/client-logos/client6.svg"
                           alt=""
                         />
                       </figure>

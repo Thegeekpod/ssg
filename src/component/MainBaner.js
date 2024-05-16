@@ -4,7 +4,7 @@ import React, { useEffect } from 'react'
 const MainBaner = () => {
     useEffect(() => {
         const script = document.createElement('script');
-        script.src = '/js/rev-Script-2.js';   //(This is external js url)
+        script.src = '/js/rev-script-2.js';   //(This is external js url)
         script.async = true;
         document.body.appendChild(script);
       }, [])
@@ -52,7 +52,7 @@ const MainBaner = () => {
             >
               {/* MAIN IMAGE */}
               <img
-                src="images/slider/slide1-home1.jpg"
+                src="/images/slider/slide1-home1.jpg"
                 data-bgcolor="rgba(255,255,255,0)"
                 style={{}}
                 alt=""
@@ -195,7 +195,7 @@ const MainBaner = () => {
             >
               {/* MAIN IMAGE */}
               <img
-                src="images/slider/slide2-home1.jpg"
+                src="/images/slider/slide2-home1.jpg"
                 data-bgcolor="#ffffff"
                 style={{}}
                 alt=""
@@ -337,7 +337,7 @@ const MainBaner = () => {
             >
               {/* MAIN IMAGE */}
               <img
-                src="images/slider/slide3-home1.jpg"
+                src="/images/slider/slide3-home1.jpg"
                 data-bgcolor="#ffffff"
                 style={{}}
                 alt=""

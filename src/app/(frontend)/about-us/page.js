@@ -1,7 +1,9 @@
 import Partners from '@/component/Partners'
+import Link from 'next/link'
 import React from 'react'
 
 const about = () => {
+  
   return (
     <div id="content" className="site-content">
     <div className="page-header flex-middle">
@@ -10,7 +12,7 @@ const about = () => {
           <h1 className="page-title">About Us</h1>
           <ul id="breadcrumbs" className="breadcrumbs none-style">
             <li>
-              <a href="index.html">Home</a>
+              <Link href="/">Home</Link>
             </li>
             <li className="active">About Us</li>
           </ul>
@@ -45,36 +47,36 @@ const about = () => {
           <div className="col-lg-6">
             <div className="row">
               <div className="col-lg-6 col-md-6">
-                <a className="ot-image-box v3 st1" href="it-services.html">
+                <div className="ot-image-box v3 st1" >
                   <div className="overlay">
                     <h4>Our Mission</h4>
                   </div>
-                  <img src="images/image-box1.jpg" alt="Our Mission" />
-                </a>
+                  <img src="/images/image-box1.jpg" alt="Our Mission" />
+                </div>
               </div>
               <div className="col-lg-6 col-md-6">
-                <a className="ot-image-box v3 st2" href="it-services.html">
+                <div className="ot-image-box v3 st2" >
                   <div className="overlay">
                     <h4>Our Vision</h4>
                   </div>
-                  <img src="images/image-box2.jpg" alt="Our Vision" />
-                </a>
+                  <img src="/images/image-box2.jpg" alt="Our Vision" />
+                </div>
               </div>
               <div className="col-lg-6 col-md-6">
-                <a className="ot-image-box v3 st3" href="it-services.html">
+                <div className="ot-image-box v3 st3" >
                   <div className="overlay">
                     <h4>Our Philosophy</h4>
                   </div>
-                  <img src="images/image-box3.jpg" alt="Our Philosophy" />
-                </a>
+                  <img src="/images/image-box3.jpg" alt="Our Philosophy" />
+                </div>
               </div>
               <div className="col-lg-6 col-md-6">
-                <a className="ot-image-box v3 st4 mb-0" href="it-services.html">
+                <div className="ot-image-box v3 st4 mb-0">
                   <div className="overlay">
                     <h4>Our Strategy</h4>
                   </div>
-                  <img src="images/image-box4.jpg" alt="Our Strategy" />
-                </a>
+                  <img src="/images/image-box4.jpg" alt="Our Strategy" />
+                </div>
               </div>
             </div>
           </div>
@@ -99,7 +101,7 @@ const about = () => {
         <div className="row">
           <div className="col-lg-6 align-self-center">
             <div className="pabout-left">
-              <img src="images/image1-about.png" alt="" />
+              <img src="/images/image1-about.png" alt="" />
             </div>
           </div>
           <div className="col-lg-6">
@@ -168,7 +170,7 @@ const about = () => {
           <div className="col-lg-3 col-md-6 no-padding">
             <div className="team-wrap v3">
               <div className="team-thumb">
-                <img src="images/member1.jpg" alt="" />
+                <img src="/images/member1.jpg" alt="" />
                 <div className="team-social flex-middle">
                   <div>
                     <a rel="nofollow" href="twitter.html" className="twitter">
@@ -195,7 +197,7 @@ const about = () => {
           <div className="col-lg-3 col-md-6 no-padding">
             <div className="team-wrap v3">
               <div className="team-thumb">
-                <img src="images/member2.jpg" alt="" />
+                <img src="/images/member2.jpg" alt="" />
                 <div className="team-social flex-middle">
                   <div>
                     <a rel="nofollow" href="twitter.html" className="twitter">
@@ -222,7 +224,7 @@ const about = () => {
           <div className="col-lg-3 col-md-6 no-padding">
             <div className="team-wrap v3">
               <div className="team-thumb">
-                <img src="images/member3.jpg" alt="" />
+                <img src="/images/member3.jpg" alt="" />
                 <div className="team-social flex-middle">
                   <div>
                     <a rel="nofollow" href="twitter.html" className="twitter">
@@ -249,7 +251,7 @@ const about = () => {
           <div className="col-lg-3 col-md-6 no-padding">
             <div className="team-wrap v3">
               <div className="team-thumb">
-                <img src="images/member4.jpg" alt="" />
+                <img src="/images/member4.jpg" alt="" />
                 <div className="team-social flex-middle">
                   <div>
                     <a rel="nofollow" href="twitter.html" className="twitter">
@@ -378,7 +380,7 @@ const about = () => {
             </div>
           </div>
           <div className="col-lg-6">
-            <img src="images/image2-about.png" alt="" />
+            <img src="/images/image2-about.png" alt="" />
           </div>
         </div>
       </div>
