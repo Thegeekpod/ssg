@@ -25,7 +25,7 @@ const Pricing = () => {
     <div className="row">
       <div className="col-md-12">
         <div className="ot-heading">
-          <span>// choose your plan</span>
+          <span>{'// '}choose your plan</span>
           <h2 className="main-heading">Flexible Pricing Plans</h2>
         </div>
         <div className="space-5" />
