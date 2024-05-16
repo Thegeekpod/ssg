@@ -51,7 +51,7 @@ const Menu = () => {
                 </ul>
             </li>
             <li>
-                <a href="/professional-software-development-services-in-woodbridge-va/">Pricing</a>
+                <a href="/pricing">Pricing</a>
             </li>
             <li>
                 <Link href="/contact-us">Contacts Us</Link>
