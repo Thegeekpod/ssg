@@ -4,22 +4,7 @@ import React from 'react'
 const Pricing = () => {
   return (
     <div id="content" className="site-content">
-    <div className="page-header flex-middle">
-      <div className="container">
-        <div className="inner flex-middle">
-          <h1 className="page-title">Pricing Plans</h1>
-          <ul id="breadcrumbs" className="breadcrumbs none-style">
-            <li>
-              <Link href="/">Home</Link>
-            </li>
-            <li>
-             <Link href="/pricing">Pricing</Link>
-            </li>
-            
-          </ul>
-        </div>
-      </div>
-    </div>
+   
     <section className="service-pricing">
   <div className="container">
     <div className="row">

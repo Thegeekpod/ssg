@@ -6,19 +6,7 @@ const about = () => {
   
   return (
     <div id="content" className="site-content">
-    <div className="page-header flex-middle">
-      <div className="container">
-        <div className="inner flex-middle">
-          <h1 className="page-title">About Us</h1>
-          <ul id="breadcrumbs" className="breadcrumbs none-style">
-            <li>
-              <Link href="/">Home</Link>
-            </li>
-            <li className="active">About Us</li>
-          </ul>
-        </div>
-      </div>
-    </div>
+ 
     <section className="about-offer pb-5">
       <div className="container">
         <div className="row">
@@ -51,7 +39,7 @@ Our dream is to build and mend your technical needs and seek growth alongside yo
               <div className="col-lg-6 col-md-6">
                 <div className="ot-image-box v3 st1" >
                   <div className="overlay">
-                    <h4>Our Mission</h4>
+                    {/* <h4>Our Mission</h4> */}
                   </div>
                   <img src="/images/image-box1.jpg" alt="Our Mission" />
                 </div>
@@ -59,7 +47,7 @@ Our dream is to build and mend your technical needs and seek growth alongside yo
               <div className="col-lg-6 col-md-6">
                 <div className="ot-image-box v3 st2" >
                   <div className="overlay">
-                    <h4>Our Vision</h4>
+                    {/* <h4>Our Vision</h4> */}
                   </div>
                   <img src="/images/image-box2.jpg" alt="Our Vision" />
                 </div>
@@ -67,7 +55,7 @@ Our dream is to build and mend your technical needs and seek growth alongside yo
               <div className="col-lg-6 col-md-6">
                 <div className="ot-image-box v3 st3" >
                   <div className="overlay">
-                    <h4>Our Philosophy</h4>
+                    {/* <h4>Our Philosophy</h4> */}
                   </div>
                   <img src="/images/image-box3.jpg" alt="Our Philosophy" />
                 </div>
@@ -75,7 +63,7 @@ Our dream is to build and mend your technical needs and seek growth alongside yo
               <div className="col-lg-6 col-md-6">
                 <div className="ot-image-box v3 st4 mb-0">
                   <div className="overlay">
-                    <h4>Our Strategy</h4>
+                    {/* <h4>Our Strategy</h4> */}
                   </div>
                   <img src="/images/image-box4.jpg" alt="Our Strategy" />
                 </div>

@@ -1,24 +1,11 @@
 import ContactFrom from '@/component/ContactFrom'
-import Partners from '@/component/Partners'
 import Link from 'next/link'
 import React from 'react'
 
 const page = () => {
   return (
     <div id="content" className="site-content">
-  <div className="page-header flex-middle">
-    <div className="container">
-      <div className="inner flex-middle">
-        <h1 className="page-title">Contact</h1>
-        <ul id="breadcrumbs" className="breadcrumbs none-style">
-          <li>
-            <Link href="/">Home</Link>
-          </li>
-          <li className="active">Contact</li>
-        </ul>
-      </div>
-    </div>
-  </div>
+
 
   <section className="contact-page">
     <div className="container">

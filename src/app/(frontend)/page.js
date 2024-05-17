@@ -32,7 +32,7 @@ export default function Home() {
             <div className="col-md-4 col-sm-4 text-sm-right align-self-end">
               <div className="ot-button">
                 <Link href="/services" className="octf-btn octf-btn-primary">
-                  all sevices
+                  all services
                 </Link>
               </div>
             

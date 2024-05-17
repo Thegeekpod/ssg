@@ -3551,6 +3551,9 @@ object {
   -moz-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   -ms-transition: all 0.3s linear;
+  background: #262051;
+  padding: 10px;
+  margin: 15px 0px;
 }
 .icon-box-s2.s1 .icon-main, .icon-box-s2.s3 .icon-main {
   transition: all 0.3s linear;
@@ -3561,7 +3564,7 @@ object {
   float: left;
   text-align: center;
   line-height: 1;
-  color: #7141b1;
+  color: white;;
 }
 .icon-box-s2.s1 .icon-main i, .icon-box-s2.s1 .icon-main span:before, .icon-box-s2.s3 .icon-main i, .icon-box-s2.s3 .icon-main span:before {
   font-size: 45px;
@@ -3578,6 +3581,7 @@ object {
 .icon-box-s2 .content-box h5 {
   margin-bottom: 17px;
   font-weight: bold;
+  color: white;
 }
 .icon-box-s2 .content-box h5 a {
   color: #1b1d21;
@@ -3587,6 +3591,7 @@ object {
 }
 .icon-box-s2 .content-box p:last-child {
   margin-bottom: 0;
+  color: white;
 }
 .icon-box-s2.s2 {
   padding: 40px 45px;
@@ -4961,10 +4966,12 @@ object {
   padding: 45px 48px 48px;
   border: 1px solid #e7e7e7;
   transition: all 0.3s linear;
+  
   -webkit-transition: all 0.3s linear;
   -moz-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   -ms-transition: all 0.3s linear;
+  
 }
 .ot-pricing-table * {
   transition: all 0.2s linear;
@@ -5049,7 +5056,7 @@ object {
   margin-right: 20px;
 }
 .ot-pricing-table .inner-table .details ul li.active {
-  color: #1b1d21;
+  color: white;
 }
 .ot-pricing-table .inner-table .details ul li.active:before {
   color: #43baff;
@@ -5057,20 +5064,20 @@ object {
 .ot-pricing-table .inner-table .details.no-icon ul li:before {
   display: none;
 }
-.ot-pricing-table .octf-btn:hover {
+.ot-pricing-table .octf-btn {
   background: #fff;
   color: #7141b1;
 }
-.ot-pricing-table:hover {
+.ot-pricing-table {
   background: #262051;
   color: #fff;
 }
-.ot-pricing-table:hover .details {
+.ot-pricing-table .details {
   border-color: rgba(255, 255, 255, 0.15);
   color: #8e88b8;
 }
-.ot-pricing-table:hover h4,
-.ot-pricing-table:hover .details ul li.active {
+.ot-pricing-table h4,
+.ot-pricing-table .details ul li.active {
   color: #fff;
 }
 .ot-pricing-table:hover .inner-table > span {
@@ -14782,8 +14789,7 @@ a.logot:hover{
 }
 
 .main-banner {
-  background: url('/banner.jpg') no-repeat center center;
-  background-size: cover;
+ 
   text-align: center;
   padding: 15px 0; /* Adjust the padding as needed */
   width: 100%;
@@ -14792,5 +14798,5 @@ a.logot:hover{
 .main-banner h4{
   font-size: 20px;
   font-weight: 600;
-  color:white;
+
 }
