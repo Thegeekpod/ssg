@@ -4963,7 +4963,8 @@ object {
 .ot-pricing-table {
   position: relative;
   overflow: hidden;
-  padding: 45px 48px 48px;
+  padding: 25px 20px 25px;
+  margin: 10px 22px;
   border: 1px solid #e7e7e7;
   transition: all 0.3s linear;
   
@@ -14022,7 +14023,7 @@ svg:not(:root) {
 }
 .ft-list-icon a {
     display: inline-block;
-    font-size: 12px;
+    font-size: 76px;
     color: #4CCEF9;
     line-height: 1;
     text-align: center;
@@ -14799,4 +14800,9 @@ a.logot:hover{
   font-size: 30px;
   font-weight: 600;
 
+}
+
+
+.contact-info i.ss:before {
+  font-size: 60px;
 }

@@ -17,12 +17,7 @@ const about = () => {
                 Your Partner for <br /> Software Innovation
               </h2>
             </div>
-            <div className="space-5" />
-            <p>
-            We are a small team of developers and IT professionals who work together to facilitate and grow our company. 
-Our dream is to build and mend your technical needs and seek growth alongside you and your businesses. 
-
-            </p>
+           
             <p>
               <em className="text-dark">
                 <strong>
@@ -73,37 +68,7 @@ Our dream is to build and mend your technical needs and seek growth alongside yo
         </div>
       </div>
     </section>
-  
-    <section className="bg-light-1 no-padding">
-        <div className="container">
-          <div className="row">
-            <div className="col-lg-12 ">
-              <div className="cta">
-                <div className="row">
-                  <div className="col-md-9 text-md-left text-center mb-4 mb-md-0">
-                    <div className="ot-heading">
-                      <span> We Carry more Than Just Good Coding Skills</span>
-                      <h2 className="main-heading">Let{`'`}s Build Your Website!</h2>
-                    </div>
-                  </div>
-                  <div className="col-md-3 text-md-right text-center align-self-end">
-                    <a
-                      href="tel:+1 7037631718"
-                      className="octf-btn btn-border"
-                      role="button"
-                    >
-                      Call Now
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-       
-       
-        <div className="space-40" />
-      </section>
+
     
   </div>
   

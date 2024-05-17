@@ -10,25 +10,18 @@ const Pricing = () => {
     <div className="row">
       <div className="col-md-12">
         <div className="ot-heading">
-          <span>choose your plan</span>
-          <h2 className="main-heading">Flexible Pricing Plans</h2>
+         
+          <h2 className="main-heading">Flexible Pricing </h2>
         </div>
         <div className="space-5" />
-        <p>
-          We help businesses elevate their value through custom software
-          development,
-          <br />
-          product design, QA and consultancy services.
-        </p>
+        
         <div className="space-20" />
       </div>
     </div>
     <div className="row justify-content-center">
     <div className="col-lg-4 col-md-6 mb-4 mb-lg-4">
     <div className="ot-pricing-table">
-        <div className="icon-main">
-            <span className="flaticon-tablet" />
-        </div>
+        
         <div className="inner-table">
             <h4 className="title-table">Digital <br/>Marketing</h4>
             <h2>
@@ -52,9 +45,7 @@ const Pricing = () => {
 
 <div className="col-lg-4 col-md-6 mb-4 mb-lg-4">
     <div className="ot-pricing-table">
-        <div className="icon-main">
-            <span className="flaticon-laptop" />
-        </div>
+       
         <div className="inner-table">
             <h4 className="title-table">Website Development</h4>
             <h2>
@@ -78,9 +69,7 @@ const Pricing = () => {
 
 <div className="col-lg-4 col-md-6 mb-4 mb-lg-4">
     <div className="ot-pricing-table">
-        <div className="icon-main">
-            <span className="flaticon-smartphone" />
-        </div>
+       
         <div className="inner-table">
             <h4 className="title-table">Application Development</h4>
             <h2>
@@ -104,9 +93,7 @@ const Pricing = () => {
 
 <div className="col-lg-4 col-md-6 mb-4 mb-lg-4">
     <div className="ot-pricing-table">
-        <div className="icon-main">
-            <span className="flaticon-graphic-design" />
-        </div>
+     
         <div className="inner-table">
             <h4 className="title-table">Graphics Design</h4>
             <h2>
@@ -130,9 +117,7 @@ const Pricing = () => {
 
 <div className="col-lg-4 col-md-6 mb-4 mb-lg-4">
     <div className="ot-pricing-table">
-        <div className="icon-main">
-            <span className="flaticon-support" />
-        </div>
+        
         <div className="inner-table">
             <h4 className="title-table">Software Support</h4>
             <h2>
@@ -156,9 +141,7 @@ const Pricing = () => {
 
 <div className="col-lg-4 col-md-6 mb-4 mb-lg-4">
     <div className="ot-pricing-table">
-        <div className="icon-main">
-            <span className="flaticon-settings" />
-        </div>
+       
         <div className="inner-table">
             <h4 className="title-table">Troubleshooting</h4>
             <h2>

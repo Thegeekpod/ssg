@@ -16,7 +16,7 @@ const ContactFrom = () => {
     className="wpcf7"
   >
     <div className="main-form">
-      <h2>Ready to Get Started?</h2>
+      <h2>Click here to send us a message</h2>
       <p className="font14">
         Your email address will not be published. Required fields are
         marked *
