@@ -12,7 +12,7 @@ const about = () => {
         <div className="row">
           <div className="col-lg-6 align-self-center mb-30 mb-lg-0">
             <div className="ot-heading">
-              <span>{"//"} About Us</span>
+              <span> About Us</span>
               <h2 className="main-heading">
                 Your Partner for <br /> Software Innovation
               </h2>

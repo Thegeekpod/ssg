@@ -10,9 +10,11 @@ export default function Home() {
 
     <div id="content" className="site-content">
 
-<div>
+<div className="container">
+<div className="row">
   <div className="main-banner">
   <h4>Go ahead make your business responsibilities lighter by letting us do your digital marketing for you.</h4>
+</div>
 </div>
 </div>
 
