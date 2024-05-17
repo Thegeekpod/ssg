@@ -90,9 +90,10 @@ const Services = () => {
             </div>
             <div className="content-box">
               <h5>Troubleshooting</h5>
-              <p>
+              <p style={{color:'white'}}>
                 We can help you find solutions by being there for any kind of technical support you may need.
               </p>
+              <div className="space-55" />
             </div>
           </div>
         </Link>

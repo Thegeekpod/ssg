@@ -14,7 +14,7 @@ const Footer = () => {
               </Link>
               <div className="space-5" />
               <p>
-                Go ahead make your business responsibilities lighter by letting us do your digital marketing for you. <Link href="/contact-us" style={{background:"#43baff",color:'white',borderRadius:"3px",padding:'5px', margin:'5px'}}>Contact us</Link>
+                Call us any time our Phone Number +1 (703) 763-1718.
               </p>
 
             </div>

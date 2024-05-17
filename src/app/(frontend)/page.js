@@ -25,9 +25,9 @@ export default function Home() {
           <div className="row">
             <div className="col-md-8 col-sm-8 mb-4 mb-sm-0">
               <div className="ot-heading mb-0">
-                <span> our service</span>
+               
                 <h2 className="main-heading">
-                  IT Services
+                 Other Services We Offered
                 </h2>
               </div>
             </div>
