@@ -47,7 +47,7 @@ const Pricing = () => {
         <div className="inner-table">
             <h4 className="title-table">Digital <br/>Marketing</h4>
             <h2>
-                <sup>$</sup> 129.99
+                <sup>$</sup> 150 
             </h2>
             <span>Monthly Package</span>
             <div className="details">
