@@ -4975,8 +4975,8 @@ object {
 }
 .ot-pricing-table .icon-main {
   position: absolute;
-  top: -80px;
-  right: -88px;
+  top: -92px;
+  right: -105px;
   width: 188px;
   height: 188px;
   color: #fff;
@@ -14766,4 +14766,17 @@ padding: 0;
 .link-n{
   text-decoration: none !important;
   color: #303437  !important;
+}
+.logott{
+  font-size: 29px;
+font-weight: 700;
+line-height: 1;
+margin-bottom: 5px;
+background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(67, 186, 255, 1) 0%, rgba(113, 65, 177, 1) 71%);
+-webkit-background-clip: text;
+color: transparent;
+
+}
+a.logot:hover{
+  text-decoration: none;
 }

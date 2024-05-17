@@ -83,15 +83,15 @@ const Services = () => {
               </Link>
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
-            <Link className='link-n'  href="/professional-graphics-design-services-in-woodbridge-va">
+            <Link className='link-n'  href="#">
               <div className="icon-box-s2 s1">
                 <div className="icon-main">
                   <span className="flaticon-best" />
                 </div>
                 <div className="content-box">
-                  <h5>Graphics Design</h5>
+                  <h5>Troubleshooting</h5>
                   <p>
-                  Transforming ideas into captivating visuals: graphic design merges creativity and strategy to communicate messages effectively across various mediums.
+                  We can help you find solutions by being there for any kind of technical support you may need.
                   </p>
                 </div>
               </div>

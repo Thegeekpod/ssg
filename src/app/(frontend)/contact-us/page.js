@@ -1,5 +1,6 @@
 import ContactFrom from '@/component/ContactFrom'
 import Partners from '@/component/Partners'
+import Link from 'next/link'
 import React from 'react'
 
 const page = () => {
@@ -11,7 +12,7 @@ const page = () => {
         <h1 className="page-title">Contact</h1>
         <ul id="breadcrumbs" className="breadcrumbs none-style">
           <li>
-            <a href="index.html">Home</a>
+            <Link href="/">Home</Link>
           </li>
           <li className="active">Contact</li>
         </ul>
@@ -57,6 +58,26 @@ const page = () => {
                 <p>+1 (703) 763-1718</p>
               </div>
             </div>
+            <div className="contact-info box-style1">
+            <i class="fi fi-rr-bulb"></i>
+              <div className="info-text">
+                <h6>Our Social Media:</h6>
+            <div className="ft-list-icon">
+  <Link className="twitter" href="#">
+    <i className="fab fa-twitter" />
+  </Link>
+  <Link className="facebook" href="https://www.facebook.com/Bethere Tech LLC">
+    <i className="fab fa-facebook-f" />
+  </Link>
+  <Link className="linkedin" href="#">
+    <i className="fab fa-linkedin-in" />
+  </Link>
+  <Link className="instagram" href="#">
+    <i className="fab fa-instagram" />
+  </Link>
+</div>
+</div>
+</div>
           </div>
         </div>
         <div className="col-lg-6">

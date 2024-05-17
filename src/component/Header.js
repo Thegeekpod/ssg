@@ -6,52 +6,7 @@ const Header = () => {
   return (
     <header id="site-header" className="site-header sticky-header header-static">
     {/* Main Header start */}
-    <div className="header-topbar style-2">
-      <div className="octf-area-wrap">
-        <div className="container">
-          <div className="row">
-            <div className="col-md-4">
-              <ul className="social-list">
-                <li>
-                  <Link href="#" target="_self">
-                    <i className="fab fa-twitter" />
-                  </Link>
-                </li>
-                <li>
-                  <Link href="https://www.facebook.com/Bethere Tech LLC" target="_self">
-                    <i className="fab fa-facebook-f" />
-                  </Link>
-                </li>
-                <li>
-                  <Link href="#" target="_self">
-                    <i className="fab fa-linkedin-in" />
-                  </Link>
-                </li>
-                <li>
-                  <Link href="#" target="_self">
-                    <i className="fab fa-instagram" />
-                  </Link>
-                </li>
-              </ul>
-            </div>
-            <div className="col-md-8">
-              <ul className="topbar-info align-self-end clearfix">
-                <li>
-                  <Link href="tel:+1 703-7631-718">
-                    <i className="fas fa-phone-alt" /> +1 703-7631-718
-                  </Link>
-                </li>
-                <li>
-                  <Link href="mailto:betheretech@outlook.com">
-                    <i className="fas fa-envelope" /> betheretech@outlook.com
-                  </Link>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    
     <div className="octf-main-header">
       <div className="octf-area-wrap">
         <div className="container octf-mainbar-container">
@@ -59,18 +14,16 @@ const Header = () => {
             <div className="octf-mainbar-row octf-row">
               <div className="octf-col logo-col">
                 <div id="site-logo" className="site-logo">
-                  <Link href="index.html">
-                    <img src="/logo.png" alt="Bethere Tech LLC" className="" />
+                  <Link href="/" className='logot'>
+                   <h3 className='logott' >Betheretech LLC </h3>
                   </Link>
                 </div>
               </div>
-              <div className="octf-col menu-col">
+              <div className="octf-col menu-col text-right pr-0">
                 <nav id="site-navigation" className="main-navigation">
                   <ul className="menu">
                    <Menu/>
-                   <div class="ot-button align-self-center" >
-                                <Link href="/book-an-appointment" style={{    borderRadius: '38px',padding: '15px'}} class="octf-btn octf-btn-primary">Book An Appoinment</Link>
-                            </div>
+                  
                   </ul>
                 </nav>
               </div>
