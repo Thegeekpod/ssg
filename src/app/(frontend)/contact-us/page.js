@@ -13,7 +13,7 @@ const page = () => {
             <div className="col-lg-6">
               <div className="contact-left">
                 <div className="ot-heading">
-                  <span> contact details</span>
+                
                   <h2 className="main-heading">Contact us</h2>
                 </div>
                 <div className="space-5" />
