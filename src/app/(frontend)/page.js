@@ -10,6 +10,11 @@ export default function Home() {
 
     <div id="content" className="site-content">
 
+<div>
+  <div className="main-banner">
+  <h4>Go ahead make your business responsibilities lighter by letting us do your digital marketing for you.</h4>
+</div>
+</div>
 
       <section className="pt-5 pb-100">
         <div className="container">
@@ -18,10 +23,9 @@ export default function Home() {
           <div className="row">
             <div className="col-md-8 col-sm-8 mb-4 mb-sm-0">
               <div className="ot-heading mb-0">
-                <span>{'//'} our service</span>
+                <span> our service</span>
                 <h2 className="main-heading">
-                  We Offer a Wide <br />
-                  Variety of IT Services
+                  IT Services
                 </h2>
               </div>
             </div>

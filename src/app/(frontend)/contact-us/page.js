@@ -26,7 +26,7 @@ const page = () => {
         <div className="col-lg-6">
           <div className="contact-left">
             <div className="ot-heading">
-              <span>{"//"} contact details</span>
+              <span> contact details</span>
               <h2 className="main-heading">Contact us</h2>
             </div>
             <div className="space-5" />
@@ -35,13 +35,7 @@ const page = () => {
               enquiries within 24 hours on business days. We will be happy to
               answer your questions.
             </p>
-            <div className="contact-info box-style1">
-              <i className="flaticon-world-globe" />
-              <div className="info-text">
-                <h6>Our Address:</h6>
-                <p>15309 Comus Court, Woodbridge, VA 22193</p>
-              </div>
-            </div>
+        
             <div className="contact-info box-style1">
               <i className="flaticon-envelope" />
               <div className="info-text">
@@ -59,7 +53,7 @@ const page = () => {
               </div>
             </div>
             <div className="contact-info box-style1">
-            <i class="fi fi-rr-bulb"></i>
+            <i className="flaticon-world-globe" />
               <div className="info-text">
                 <h6>Our Social Media:</h6>
             <div className="ft-list-icon">
@@ -69,9 +63,7 @@ const page = () => {
   <Link className="facebook" href="https://www.facebook.com/Bethere Tech LLC">
     <i className="fab fa-facebook-f" />
   </Link>
-  <Link className="linkedin" href="#">
-    <i className="fab fa-linkedin-in" />
-  </Link>
+
   <Link className="instagram" href="#">
     <i className="fab fa-instagram" />
   </Link>
@@ -89,30 +81,7 @@ const page = () => {
       </div>
     </div>
   </section>
-  <div className="padding-half bg-light-1">
-      <div className="container">
-        <div className="row">
-          <div className="col-md-12">
-           
-              <Partners/>
-               
-              
-          </div>
-        </div>
-      </div>
-    </div>
-  <div className="no-padding">
-    <div className="map">
-      <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3117.149500530687!2d-77.37342222519858!3d38.62244166288281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6f81b116347af%3A0x53625b3a75642194!2s15309%20Comus%20Ct%2C%20Woodbridge%2C%20VA%2022193%2C%20USA!5e0!3m2!1sen!2sin!4v1715498430196!5m2!1sen!2sin"
-        height={500}
-        style={{ border: 0 }}
-        allowFullScreen=""
-        aria-hidden="false"
-        tabIndex={0}
-      />
-    </div>
-  </div>
+ 
 </div>
 
   )

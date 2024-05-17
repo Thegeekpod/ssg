@@ -13948,7 +13948,7 @@ svg:not(:root) {
 /* Footer */
 .footer-v1 {
     background-color: #201D3C;
-    padding: 115px 0 50px 0;
+    padding: 70px 0 50px 0;
     color: #AEAACB;
 }
 .widget-footer {
@@ -14779,4 +14779,18 @@ color: transparent;
 }
 a.logot:hover{
   text-decoration: none;
+}
+
+.main-banner {
+  background: url('/banner.jpg') no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  padding: 15px 0; /* Adjust the padding as needed */
+  width: 100%;
+  overflow: hidden;
+}
+.main-banner h4{
+  font-size: 20px;
+  font-weight: 600;
+  color:white;
 }

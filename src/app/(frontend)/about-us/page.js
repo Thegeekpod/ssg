@@ -94,7 +94,7 @@ Our dream is to build and mend your technical needs and seek growth alongside yo
                 <div className="row">
                   <div className="col-md-9 text-md-left text-center mb-4 mb-md-0">
                     <div className="ot-heading">
-                      <span>{'//'} We Carry more Than Just Good Coding Skills</span>
+                      <span> We Carry more Than Just Good Coding Skills</span>
                       <h2 className="main-heading">Let{`'`}s Build Your Website!</h2>
                     </div>
                   </div>

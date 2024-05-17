@@ -5,7 +5,21 @@ import React from 'react'
 const Services = () => {
   return (
     <div className="row">
-
+  <div className="col-lg-4 col-md-6 col-sm-12">
+            <Link className='link-n'  href="/seo-and-digital-marketing-services-for-businesses-in-woodbridge-va">
+              <div className="icon-box-s2 s1 xs-pb-60">
+                <div className="icon-main">
+                  <span className="flaticon-report-1" />
+                </div>
+                <div className="content-box">
+                  <h5>Degital Marketing</h5>
+                  <p>
+                  Strategizing, optimizing, and amplifying online presence: digital marketing transforms brands through targeted campaigns and engaging content strategies.
+                  </p>
+                </div>
+              </div>
+              </Link>
+            </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
                 <Link className='link-n'  href="/professional-website-development-in-woodbridge-va">
               <div className="icon-box-s2 s1 pb-60">
@@ -67,21 +81,7 @@ const Services = () => {
               </div>
               </Link>
             </div>
-            <div className="col-lg-4 col-md-6 col-sm-12">
-            <Link className='link-n'  href="/seo-and-digital-marketing-services-for-businesses-in-woodbridge-va">
-              <div className="icon-box-s2 s1 xs-pb-60">
-                <div className="icon-main">
-                  <span className="flaticon-report-1" />
-                </div>
-                <div className="content-box">
-                  <h5>Degital Marketing</h5>
-                  <p>
-                  Strategizing, optimizing, and amplifying online presence: digital marketing transforms brands through targeted campaigns and engaging content strategies.
-                  </p>
-                </div>
-              </div>
-              </Link>
-            </div>
+            
             <div className="col-lg-4 col-md-6 col-sm-12">
             <Link className='link-n'  href="#">
               <div className="icon-box-s2 s1">
