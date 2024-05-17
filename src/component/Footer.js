@@ -14,7 +14,7 @@ const Footer = () => {
               </Link>
               <div className="space-5" />
               <p>
-                Call us any time our Phone Number +1 (703) 763-1718.
+                Call us any time our Phone Number <link href='tel:+1 (703) 763-1718'>+1 (703) 763-1718</link>
               </p>
 
             </div>
