@@ -27,7 +27,7 @@ export default function Home() {
               <div className="ot-heading mb-0">
                
                 <h2 className="main-heading">
-                 Other Services We Offered
+                 Other Services We Offer
                 </h2>
               </div>
             </div>
