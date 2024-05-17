@@ -14,7 +14,7 @@ const Footer = () => {
               </Link>
               <div className="space-5" />
               <p >
-                Call Us Any Time Our Phone Number <Link href='tel:+1 (703) 763-1718'>+1 (703) 763-1718</Link>
+                Call Us Anytime Our Phone Number <Link href='tel:+1 (703) 763-1718'>+1 (703) 763-1718</Link>
               </p>
 
             </div>
