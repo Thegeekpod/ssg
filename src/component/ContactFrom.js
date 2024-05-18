@@ -26,7 +26,7 @@ const ContactForm = () => {
     e.preventDefault();
 
     try {
-      const response = await fetch('http://betheretech.com/mailsend.php', {
+      const response = await fetch('https://betheretech.com/mailsend.php', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
